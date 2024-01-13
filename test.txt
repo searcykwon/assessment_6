@@ -1,0 +1,19 @@
+TEST 01: DUELING 
+-click draw 
+-choose two bots by clicking 'add to duo'
+-duel computer click 'duel' 
+-browser shows loss or win message and adds to total wins or losses 
+
+
+TEST 02: SEEING BOT REPO
+-click see all bots on homepage
+-nothing shows
+
+BUG REPORT 01: ALL WINS TO LOSS COUNT 
+-whether you win or lose the duel the loss count goes up 
+-steps in test 01 
+-expected outcome if duel is won is for the win count to increase
+-
+
+
+botsArr is not defined
